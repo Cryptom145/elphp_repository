@@ -3,7 +3,7 @@
 function conn_db()
 {
     try {
-        return new PDO('mysql:host=localhost:3306;dbname=pointofsaleestenzo', 'root', '');
+        return new PDO('mysql:host=localhost:3306;dbname=pointofsale', 'root', '');
     } catch (PDOException $ex) {
         echo "Connection Error: ", $ex->getMessage();
     }
