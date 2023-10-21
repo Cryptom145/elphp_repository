@@ -40,7 +40,6 @@
 			</form>
 		</div>
 		<br>
-		
 		<div>
 			<table class="table table-bordered table-hover mx-auto p-2" style="width:auto;">
 				<tr>
@@ -63,6 +62,5 @@
 				?>
 			</table>
 		</div>
-		
 	</body>
 </html>
